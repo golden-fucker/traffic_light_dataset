@@ -1,0 +1,2 @@
+# traffic_light_dataset
+红绿灯识别数据集 16000张图片和对应的xml标签，以及txt标签，可用于yolo训练
